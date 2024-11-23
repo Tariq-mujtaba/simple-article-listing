@@ -11,7 +11,7 @@
 
 ## Overview
 
-![Simple Article Listing Screenshot](https://github.com/name/simple-article-listing/raw/main/resources/design/Screenshot.jpg)
+![Simple Article Listing Screenshot](https://github.com/Tariq-mujtaba/simple-article-listing/raw/c118fde0bdf871de6e4eacc3395b6680ef11184d/resources/design/Screenshot.jpg)
 
 This project is a clean and simple webpage that displays a list of articles related to technology. It includes a header section with an introductory heading, followed by a series of articles. Each article features an image, a title, and a publication date. The layout is responsive, adapting from a vertical layout on smaller screens to a horizontal layout on larger screens.
 
